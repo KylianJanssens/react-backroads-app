@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../images/logo.svg'
 import { socialLinks } from '../data'
-import PageLinks from '../components/PageLinks'
+import PageLinks from '../components/PageLinks';
 import SocialLink from './SocialLink';
 
 const Navbar = () => {

@@ -1,6 +1,7 @@
 import React from 'react'
-import { pageLinks, socialLinks } from '../data'
-import PageLinks from '../components/PageLinks'
+import { socialLinks } from '../data'
+import PageLinks from '../components/PageLinks';
+
 import SocialLink from './SocialLink'
 
 
